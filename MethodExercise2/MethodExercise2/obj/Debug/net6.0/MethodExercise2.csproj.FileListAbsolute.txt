@@ -1,0 +1,15 @@
+C:\Users\mnich\OneDrive\Desktop\Repos\MethodExercise\MethodExercise2\MethodExercise2\obj\Debug\net6.0\MethodExercise2.csproj.AssemblyReference.cache
+C:\Users\mnich\OneDrive\Desktop\Repos\MethodExercise\MethodExercise2\MethodExercise2\obj\Debug\net6.0\MethodExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnich\OneDrive\Desktop\Repos\MethodExercise\MethodExercise2\MethodExercise2\obj\Debug\net6.0\MethodExercise2.AssemblyInfoInputs.cache
+C:\Users\mnich\OneDrive\Desktop\Repos\MethodExercise\MethodExercise2\MethodExercise2\obj\Debug\net6.0\MethodExercise2.AssemblyInfo.cs
+C:\Users\mnich\OneDrive\Desktop\Repos\MethodExercise\MethodExercise2\MethodExercise2\obj\Debug\net6.0\MethodExercise2.csproj.CoreCompileInputs.cache
+C:\Users\mnich\OneDrive\Desktop\Repos\MethodExercise\MethodExercise2\MethodExercise2\bin\Debug\net6.0\MethodExercise2.exe
+C:\Users\mnich\OneDrive\Desktop\Repos\MethodExercise\MethodExercise2\MethodExercise2\bin\Debug\net6.0\MethodExercise2.deps.json
+C:\Users\mnich\OneDrive\Desktop\Repos\MethodExercise\MethodExercise2\MethodExercise2\bin\Debug\net6.0\MethodExercise2.runtimeconfig.json
+C:\Users\mnich\OneDrive\Desktop\Repos\MethodExercise\MethodExercise2\MethodExercise2\bin\Debug\net6.0\MethodExercise2.dll
+C:\Users\mnich\OneDrive\Desktop\Repos\MethodExercise\MethodExercise2\MethodExercise2\bin\Debug\net6.0\MethodExercise2.pdb
+C:\Users\mnich\OneDrive\Desktop\Repos\MethodExercise\MethodExercise2\MethodExercise2\obj\Debug\net6.0\MethodExercise2.dll
+C:\Users\mnich\OneDrive\Desktop\Repos\MethodExercise\MethodExercise2\MethodExercise2\obj\Debug\net6.0\refint\MethodExercise2.dll
+C:\Users\mnich\OneDrive\Desktop\Repos\MethodExercise\MethodExercise2\MethodExercise2\obj\Debug\net6.0\MethodExercise2.pdb
+C:\Users\mnich\OneDrive\Desktop\Repos\MethodExercise\MethodExercise2\MethodExercise2\obj\Debug\net6.0\MethodExercise2.genruntimeconfig.cache
+C:\Users\mnich\OneDrive\Desktop\Repos\MethodExercise\MethodExercise2\MethodExercise2\obj\Debug\net6.0\ref\MethodExercise2.dll

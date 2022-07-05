@@ -1,0 +1,13 @@
+﻿using MethodExercise2;
+int sum = Methods.Add(10, 2);
+Console.WriteLine(sum);
+int total = Methods.Multiply(4, 50);
+Console.WriteLine(total);
+int result = Methods.Subtract(90, 46);
+Console.WriteLine(result);
+int answer = Methods.Divide(20, 2);
+Console.WriteLine(answer);
+int ans = Methods.Modulus(3, 4);
+Console.WriteLine(ans);
+int sum2 = Methods.AddSeveralNumbers(15, 12, 36, 42);
+Console.WriteLine(sum2);
